@@ -96,7 +96,7 @@ public class PlacementManager : MonoBehaviour
         if (!CurrencyManager.Instance.SpendCoins(
                 selectedCost))
         {
-            Debug.Log("Not enough money");
+            //Debug.Log("Not enough money");
             return;
         }
 
