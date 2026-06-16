@@ -921,10 +921,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91154896f9ca21841a40e30500e9a9bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraController
-  minX: -10
-  maxX: 10
-  minY: -10
-  maxY: 10
+  minX: -8
+  maxX: 8
+  minY: -8
+  maxY: 8
   zoomSpeed: 0.5
   minZoom: 1
   maxZoom: 5
